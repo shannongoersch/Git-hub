@@ -52,7 +52,7 @@ export default class ExercisesList extends Component {
   render() {
     return (
       <div>
-        <h3>REPLACE ME</h3>
+        <h3>Food Inventory</h3>
         <table className="table">
           <thead className="thead-light">
             <tr>
